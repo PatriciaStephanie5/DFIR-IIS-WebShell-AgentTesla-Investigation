@@ -19,7 +19,7 @@ Explore the full technical and executive documentation inside the `docs/` direct
 * [** Executive Report (TechNova Leadership)**](docs/executive-report.md) - Non-technical briefing on business risk, impact, and strategic remediation.
 * [** Technical Incident Summary (TechNova IT & Security)**](docs/incident-summary.md) - Engineering handoff with extracted IoCs, PIDs, and network signatures.
 * [** Containment & Response**](docs/containment-and-response.md) - Step-by-step eradication, host isolation, and credential rotation procedures.
-* [** Lessons Learned**](docs/lessons-learned.md) - Root cause analysis and long-term architectural hardening controls.
+* [** Lessons Learned**](docs/lesson-learned.md) - Root cause analysis and long-term architectural hardening controls.
 
 ---
 
